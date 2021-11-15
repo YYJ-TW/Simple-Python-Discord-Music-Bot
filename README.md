@@ -1,8 +1,9 @@
-# Python Discord Music Bot
+# Simple Python Discord Music Bot
 A simple Python Discord music bot, using youtube-dl API.
 
 ## Author
-YYJ/#6116
+YYJ#6116
+Made by YYJ. If you have any question about this project, you can go to Discord contact `YYJ#6116`.
 
 ## Setup
 1. Download file
