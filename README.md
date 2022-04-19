@@ -1,6 +1,9 @@
 # Simple Python Discord Music Bot
 A simple Python Discord music bot, using youtube-dl API.
 
+## Issue
+`Command raised an exception: KeyError: 'dislike_count'` `play` command doesn't work.(It's youtube-dl problem)
+
 ## Author
 Made by YYJ. If you have any question about this project, you can go to Discord contact `YYJ#6116`.
 
